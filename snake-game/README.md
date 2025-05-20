@@ -2,10 +2,6 @@
 
 > Modern Python tabanlı yılan oyunu. Özel güçler, dinamik zorluk seviyesi ve modern arayüz ile klasik oyunu yeniden yorumluyor. 🎮✨
 
-Modern ve eğlenceli bir yılan oyunu uygulaması. Klasik yılan oyununun ötesine geçen özellikler ve modern bir arayüz ile yeniden tasarlandı.
-
-![Game Preview](preview.png)
-
 ## ✨ Özellikler
 
 - 🎮 Sezgisel kontroller (WASD ve Ok tuşları desteği)
